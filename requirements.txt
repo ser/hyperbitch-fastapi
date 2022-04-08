@@ -1,0 +1,5 @@
+aiosqlite
+asyncpg
+fastapi-users[sqlalchemy2]
+fastapi[all]
+starlette-i18n
